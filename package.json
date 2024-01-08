@@ -26,5 +26,10 @@
   "homepage": "https://github.com/learn-co-curriculum/js-task-lister-project",
   "devDependencies": {
     "learn-browser": "^0.1.12"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "mocha": "^10.2.0"
   }
 }
